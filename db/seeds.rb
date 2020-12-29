@@ -11,3 +11,5 @@ Ingredient.create(name: "mint leaves")
 
 Cocktail.create(name: "Virgin Mojito")
 Cocktail.create(name: "Long island")
+Cocktail.create(name: "Mojito")
+Cocktail.create(name: "Margharita")

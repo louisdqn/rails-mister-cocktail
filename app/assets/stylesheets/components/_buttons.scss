@@ -1,0 +1,55 @@
+.buttn-primary{
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.buttn-secondary{
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 10px;
+  color: white;
+}
+
+.buttn-primary:hover{
+   border: 1px solid black;
+  color: black;
+  background-color: #CBA839;
+  text-decoration: none;
+  }
+
+.buttn-secondary:hover{
+  border: 1px solid #972916;
+  color: white;
+  background-color: #972916;
+  text-decoration: none;
+}
+
+.fa-chevron-down{
+  font-size: 25px;
+  color:white;
+  align-item: center;
+  text-align: center;
+}
+
+.fas:hover{
+  transform: scale(2);
+}
+
+.arrow-down{
+  align-item: center;
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 50px;
+  text-align: center;
+  border-radius:30px;
+}
+
+.fa-plus-circle{
+color: black;
+}
